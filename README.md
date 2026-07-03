@@ -28,7 +28,7 @@ Focused on quality, clear documentation, and continuously improving testing proc
 
 ## My CV
 
-[CV](https://github.com/yanavlasiuk/Yana_Vlasiuk_portfolio/blob/main/Resume/Resume_Yana_Vlasiuk.pdf)
+[CV](Resume/Resume_Yana_Vlasiuk.pdf)
 
 ## Portfolio
 - Test documentation
