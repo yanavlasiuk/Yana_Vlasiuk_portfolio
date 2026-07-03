@@ -24,16 +24,16 @@ Focused on quality, clear documentation, and continuously improving testing proc
 
 [Посилання на резюме](https://ссылочку_сюда)
 
-## Портфолио 
-- Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
+## Portfolio 
+- Test documentation
+  -  [Check lists](https://ссылочку_сюда)
+  -  [Test cases](https://ссылочку_сюда)
   -  [Mind maps](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
-- Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
-- SQL запросы 
-  -  [Название проектв](https://ссылочку_сюда)
+  -  [Bag reports](https://ссылочку_сюда)
+- Postman collections 
+  -  [Project name](https://ссылочку_сюда)
+- SQL requests 
+  -  [Project name](https://ссылочку_сюда)
   
 
 ## Tools: 
