@@ -16,7 +16,7 @@ My background includes both manual and automation testing, including supporting 
 Key achievements:
 - At Ajax Systems, contributed to building test environments for verifying thousands of IoT devices (motion detectors, video cameras), wrote documentation, and proposed improvements that simplified operators' workflows.
 - At Mate Space, joined as the first QA on the project and built the testing process from scratch (checklists, test coverage matrix), testing web, admin panel, and mobile apps (iOS/Android).
-- At Arise powered by Pragmatic Play, test slot games, backend, and microservices, and developed tools that reduced routine QA checks from an hour to few minutes.
+- At Arrise powered by Pragmatic Play, test slot games, backend, and microservices, and developed tools that reduced routine QA checks from an hour to few minutes.
 
 Focused on quality, clear documentation, and continuously improving testing processes.
 
